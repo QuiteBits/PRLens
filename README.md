@@ -1,13 +1,10 @@
-# PRLens
+# PRLens 
 
 **A static code analysis tool for GitHub Pull Requests.**
 
-# 📢 Development Update — PRLens
-
-Hey everyone! 👋
+# 📢 Development Update — Please Pay attention!!
 
 We've decided to temporarily shift our development focus towards a new project, **GitRoast**.
-
 The goal is to explore GitHub API integrations, OAuth authentication, AI-powered developer analysis, and other technologies that will help us grow as developers.
 
 🚧 **What about PRLens?**
@@ -24,7 +21,7 @@ PRLens is an open-source developer tool designed to help developers identify pot
 
 Instead of manually reviewing every changed line, PRLens aims to provide structured feedback about code quality, potential bugs, and maintainability.
 
-> **Status:** Under active development
+
 
 ## Overview
 
