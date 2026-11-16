@@ -2,6 +2,24 @@
 
 **A static code analysis tool for GitHub Pull Requests.**
 
+# 📢 Development Update — PRLens
+
+Hey everyone! 👋
+
+We've decided to temporarily shift our development focus towards a new project, **GitRoast**.
+
+The goal is to explore GitHub API integrations, OAuth authentication, AI-powered developer analysis, and other technologies that will help us grow as developers.
+
+🚧 **What about PRLens?**
+
+PRLens is NOT cancelled. Its development is temporarily on hold while we work on GitRoast. We intend to return to PRLens after completing this project.
+
+We believe exploring new ideas and technologies is also part of building better software.
+
+We apologize for the unexpected change and appreciate your patience and support!
+
+**—Team QuiteBits** 🚀
+
 PRLens is an open-source developer tool designed to help developers identify potential code issues in GitHub Pull Requests through automated static analysis.
 
 Instead of manually reviewing every changed line, PRLens aims to provide structured feedback about code quality, potential bugs, and maintainability.
